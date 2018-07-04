@@ -260,7 +260,7 @@ sudo apt-get upgrade
    
    Open puttygen and load the `test.pem` to genarate private key and click on `save privatekey`
    
-   It is saved as privatekey.ppk 
+   It is saved as pk.ppk 
    
    Now open putty by selecting auth in ssh and load `privatekey` with static IP: 13.232.124.144 port:2200
    
