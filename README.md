@@ -233,7 +233,7 @@ sudo apt-get upgrade
    
    - Click `Credentials`.
    
-   - Create an OAuth Client ID (under the Credentials tab), and add http://13.232.41.220.xip.io 
+   - Create an OAuth Client ID (under the Credentials tab), and add http://13.232.124.144.xip.io 
      as authorized JavaScript origins.
    
    - Add the below three links as authorized javascript origins
